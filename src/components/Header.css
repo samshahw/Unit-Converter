@@ -1,0 +1,22 @@
+.header {
+  font-size: 32px;
+  background-color: #1976d2;
+  color: white;
+  padding: 15px 30px 15px 30px;
+  text-align: left;
+  display: flex;
+}
+
+.header > span:nth-child(1) {
+  flex: 10;
+}
+
+.header > span:nth-child(2) {
+  flex: 1;
+}
+
+.header-btn {
+  font-size: 32px;
+  text-transform: none !important;
+  color: white;
+}

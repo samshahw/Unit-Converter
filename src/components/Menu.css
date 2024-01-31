@@ -1,0 +1,22 @@
+.menu-row {
+  display: flex;
+}
+
+.menu-button {
+  padding: 30px 60px 30px 60px !important;
+  display: block !important;
+  margin: 20px !important;
+  flex: 1;
+}
+
+.btn-text {
+  font-size: 32px !important;
+  font-weight: 400 !important;
+  text-transform: none !important;
+}
+
+.btn-subtext {
+  font-size: 16p !important;
+  font-weight: 400 !important;
+  text-transform: none !important;
+}
